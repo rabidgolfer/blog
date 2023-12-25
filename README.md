@@ -1,1 +1,1 @@
-https://img.shields.io/badge/any_text-you_like-blue
+![Static Badge](https://img.shields.io/badge/YES?label=QA%20Involved%3F&labelColor=blue&color=green)
